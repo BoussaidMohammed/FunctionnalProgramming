@@ -1,0 +1,5 @@
+Imprimante,2300,0
+Ecran,1349,5
+Souris,240,20
+Scanner,800,0
+Clavier,430,10
